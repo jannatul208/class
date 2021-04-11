@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div_1{
+padding: 20px;
+ background-color: chocolate;
+ text-align: center;
+}
+.div_2{
+    padding: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: crimson;
+    width: 50%;
+    float: left;
+}
+.div_3{
+    padding: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: cyan;
+    width: 50%;
+    float: left;
+}
+.div_4{
+    font-size: large;
+    font-family: serif;
+     padding: 500px 0 100px 0;
+  background-color: chocolate;
+ text-align: center;
+   
+}
+.div_5{
+    width: 100%; 
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
